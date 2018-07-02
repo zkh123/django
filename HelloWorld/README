@@ -1,0 +1,8 @@
+django-admin startproject HelloWorld
+进入HelloWorld
+python manage.py startapp app_name
+
+conda create -n quechao_platform_python3 python=3.6
+activate quechao_platform_python3
+conda install django
+conda install pymysql
